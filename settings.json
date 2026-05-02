@@ -47,7 +47,7 @@
             { "ImageType": 0, "Width": 640, "Height": 480, "FOV_Degrees": 90 },
             { "ImageType": 1, "Width": 640, "Height": 480, "FOV_Degrees": 90 }
           ],
-          "X": 0.30, "Y": 0.00, "Z": -0.05,
+          "X": 0.35, "Y": 0.00, "Z": -0.05,
           "Pitch": 0,  "Roll": 0, "Yaw": 0
         },
         "left": {
@@ -55,7 +55,7 @@
             { "ImageType": 0, "Width": 640, "Height": 480, "FOV_Degrees": 90 },
             { "ImageType": 1, "Width": 640, "Height": 480, "FOV_Degrees": 90 }
           ],
-          "X": 0.00, "Y": -0.30, "Z": -0.10,
+          "X": 0.00, "Y": -0.35, "Z": -0.10,
           "Pitch": 0,  "Roll": 0, "Yaw": -90
         },
         "right": {
@@ -63,7 +63,7 @@
             { "ImageType": 0, "Width": 640, "Height": 480, "FOV_Degrees": 90 },
             { "ImageType": 1, "Width": 640, "Height": 480, "FOV_Degrees": 90 }
           ],
-          "X": 0.00, "Y": 0.30, "Z": -0.10,
+          "X": 0.00, "Y": 0.35, "Z": -0.10,
           "Pitch": 0,  "Roll": 0, "Yaw": 90
         },
         "down": {
